@@ -1,5 +1,5 @@
 # TicTacToe
-
+```
 Game Started !
 Welcome to tictactoe
 +---+---+---+
@@ -42,5 +42,5 @@ Player2 WINS !
 +---+---+---+
 | O |   | X |
 +---+---+---+
-
+```
 
